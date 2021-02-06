@@ -1,0 +1,17 @@
+* {
+  box-sizing: border-box; }
+
+html, body {
+  margin: 0px;
+  height: 100%; }
+
+header {
+  background-color: red; }
+  header h1 {
+    color: black; }
+
+main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center; }
